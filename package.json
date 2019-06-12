@@ -1,0 +1,29 @@
+{
+  "name": "luc_discord",
+  "version": "1.0.0",
+  "description": "Discord bot for FiveM community | lifeunderclouds.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeeksB/luc_discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeeksB/luc_discord/issues"
+  },
+  "homepage": "https://github.com/KeeksB/luc_discord#readme",
+  "dependencies": {
+    "better-sqlite-pool": "^0.2.2",
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "enmap": "^4.8.7",
+    "moment": "^2.24.0",
+    "request-promise": "^4.2.4"
+  }
+}

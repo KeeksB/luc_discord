@@ -1,3 +1,8 @@
+# dont commit enmap persist data
+data/
+
+# Generated from GitHub 'node' preset
+
 # Logs
 logs
 *.log
