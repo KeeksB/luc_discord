@@ -23,7 +23,7 @@
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0",
     "enmap": "^4.8.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request-promise": "^4.2.4"
   }
 }
